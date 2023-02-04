@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import BlogPostCard from '../components/BlogPostCard.astro'
+
+const allPosts = (await Astro.glob('../pages/posts/*.md')).sort(
+  (a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf()
+)
+const pageTitle = 'Goodnight Trail'
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <section class='flex flex-col items-center gap-4 pt-12'>
+    <h2 class='font-bold'>Home is …</h2>
+    <h2 class='font-bold'>Where the Trail Is</h2>
+  </section>
+
+  <section class='pt-4 max-w-2xl mx-auto'>
+    <p>
+      We continue to build a camper van, our vacation home on wheels to explore in, to get us to the
+      many places we want to vacation and explore around. We want to scout the roads less traveled,
+      cruise the interstates and tour everything in between to experience the beauties to behold
+      from purple mountains majesty, through amber waves of grain, fruited plains, from sea to
+      shining sea, and hopefully even into Canada and possibly South America. We endeavor to
+      participate in celebrations across the country, meet new people and cities and hike the many
+      trails just waiting for our new eyes to revere. We traverse in Mr. Knightley even as we
+      continue to perfect our vacation home on the road. When we travel, home is where the trail is.
+    </p>
+    <p>This was the most stunning hiking destination; Taggart Lake with Grand Teton views.</p>
+    <p>Viewing Grand Teton</p>
+  </section>
+
+  <section class='pt-6'>
+    <h2 class='text-2xl text-center'>Recent Posts</h2>
+
+    <div class='grid grid-cols-1 pt-4 md:grid-cols-3 gap-8'>
+      {
+        allPosts
+          .slice(0, 6)
+          .map((post) => (
+            <BlogPostCard
+              url={post.url}
+              title={post.frontmatter.title}
+              imageUrl={post.frontmatter.image.url}
+            />
+          ))
+      }
+    </div>
+  </section>
+</BaseLayout>

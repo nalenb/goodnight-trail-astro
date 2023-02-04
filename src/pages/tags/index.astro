@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+
+const allPosts = await Astro.glob('../posts/*.md')
+const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())]
+const pageTitle = 'Tag Index'
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <h2 class='pt-6 text-center text-2xl'>Categories</h2>
+  <div class='grid grid-cols-3 pt-4 max-w-6xl mx-auto'>
+    {
+      tags.map((tag) => (
+        <p class='underline hover:text-lime-600'>
+          <a href={`/tags/${tag}`}>{tag}</a>
+        </p>
+      ))
+    }
+  </div>
+</BaseLayout>
