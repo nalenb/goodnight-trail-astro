@@ -9,13 +9,12 @@ const pageTitle = 'Goodnight Trail'
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <section class='flex flex-col items-center gap-4 pt-12'>
-    <h2 class='font-bold'>Home is …</h2>
-    <h2 class='font-bold'>Where the Trail Is</h2>
+  <section class='pt-4'>
+    <h1 class='text-3xl tracking-widest text-center py-8'>Home Is Where The Trail Is</h1>
   </section>
 
-  <section class='pt-4 max-w-2xl mx-auto'>
-    <p>
+  <section class='pt-4 max-w-2xl mx-auto text-xl'>
+    <p class='pt-4'>
       We continue to build a camper van, our vacation home on wheels to explore in, to get us to the
       many places we want to vacation and explore around. We want to scout the roads less traveled,
       cruise the interstates and tour everything in between to experience the beauties to behold
@@ -25,8 +24,10 @@ const pageTitle = 'Goodnight Trail'
       trails just waiting for our new eyes to revere. We traverse in Mr. Knightley even as we
       continue to perfect our vacation home on the road. When we travel, home is where the trail is.
     </p>
-    <p>This was the most stunning hiking destination; Taggart Lake with Grand Teton views.</p>
-    <p>Viewing Grand Teton</p>
+    <p class='pt-4'>
+      This was the most stunning hiking destination; Taggart Lake with Grand Teton views.
+    </p>
+    <p class='pt-4'>Viewing Grand Teton</p>
   </section>
 
   <section class='pt-6'>
@@ -41,6 +42,7 @@ const pageTitle = 'Goodnight Trail'
               url={post.url}
               title={post.frontmatter.title}
               imageUrl={post.frontmatter.image_url}
+              date={post.frontmatter.pubDate}
             />
           ))
       }

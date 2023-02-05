@@ -8,7 +8,9 @@ const pageTitle = 'Relief Society Activity Ideas'
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h2 class='text-center text-2xl pt-6'>All Ideas</h2>
+  <section>
+    <h2 class='text-3xl tracking-widest text-center py-8'>All Ideas</h2>
+  </section>
 
   <div class='grid grid-cols-3 gap-8 pt-4 max-w-6xl mx-auto'>
     {
@@ -17,6 +19,7 @@ const pageTitle = 'Relief Society Activity Ideas'
           url={post.url}
           title={post.frontmatter.title}
           imageUrl={post.frontmatter.image_url}
+          date={post.frontmatter.pubDate}
         />
       ))
     }
