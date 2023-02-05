@@ -15,13 +15,13 @@ The delivery trucks had found us in our brand new neighborhood even though we do
 
 until SNOWMAGEDDON 2021.
 
-![Van](images/posts/IMG_1654.jpeg)
+![Van](/posts/IMG_1654.jpeg)
 The first shoveled path was directly to our van, Mr. Knightly.
 
-![Van](images/posts/IMG_1568.jpeg)
+![Van](/posts/IMG_1568.jpeg)
 8020 alluminum rails went in for our sliding bed to couch.
 
-![Van](images/posts/IMG_1663.jpeg)
+![Van](/posts/IMG_1663.jpeg)
 Temporary shower stall.
 
 After putting up the temporary shower stall behind the driver seat, we realized we wanted to make the give-and-take decision to adjust how much room it takes up for the one time a day we use it. It will be hidden in a bench height box for a seat or foot stool and raise it up to the ceiling for our shower. The idea is to do the same for the potty on the opposite side or put it in the same space. That we can decide a little further on in the process.

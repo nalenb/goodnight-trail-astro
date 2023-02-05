@@ -21,13 +21,13 @@ Where the old shoe rocked the fisherman three:-
 
 Wynken, Blynken, And Nod." Eugene Field - 1850-1895
 
-![Van](images/posts/IMG_0660.jpeg)
+![Van](/posts/IMG_0660.jpeg)
 Mr. Knightley is winking until the rain stops so we can put the other window in.
 
-![Van](images/posts/IMG_2356.jpeg)
+![Van](/posts/IMG_2356.jpeg)
 Time to nod.
 
 Update: We love having windows to see out the back!
 
-![Van](images/posts/IMG_3470.jpeg)
+![Van](/posts/IMG_3470.jpeg)
 Reflections of adventures on the trail.

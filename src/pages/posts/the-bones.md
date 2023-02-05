@@ -13,10 +13,10 @@ Bill has been so excited to start getting the parts delivered that he needs in o
 
 Check out the bones so far...
 
-![Van](images/posts/IMG_1568-1.jpeg)
+![Van](/posts/IMG_1568-1.jpeg)
 
-![Van](images/posts/IMG_0576.jpeg)
+![Van](/posts/IMG_0576.jpeg)
 The bed frame slides back and folds up in thirds for couch mode.
 
-![Van](images/posts/IMG_0564.jpeg)
+![Van](/posts/IMG_0564.jpeg)
 Bones for the 5-drawer cabinet.

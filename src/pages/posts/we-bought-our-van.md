@@ -17,5 +17,5 @@ Before checking out the Sprinter dealer, we decided to look at what Ford had to 
 
 So, WE BOUGHT OUR VAN! Our ride is a 2020 AWD Ford Transit 350 EcoBoost 148 Long, High Roof ready for us to build our camper van to travel the country in, to have a good night on the trail.
 
-![Van](images/posts/IMG_0769.png 'Mr. Knightley has already taken us on a day trip.')
+![Van](/posts/IMG_0769.png 'Mr. Knightley has already taken us on a day trip.')
 Mr. Knightley has already taken us on a day trip.

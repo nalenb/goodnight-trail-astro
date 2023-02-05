@@ -13,11 +13,11 @@ Time to use the cute material I bought! Window covers for your van cost so much 
 
 I sandwiched a cute material with a pattern on it that surrounds our Goodnight Trail theme for the inside with a reflectix material on the inside which helps to keep a stiff enough form and yet it is easy to roll up. Then on the side facing outside, I used the 3M Thinsulate which is a great moisture and insulating barrier. I also used the 3M spray adhesive to help keep it all in place. It did make for a think sandwich to send through my homemaker, but sturdy sewing machine, but it was still manageble enough even around the corners where the "goodnight" material needed to be folded. I still want to add some tabs to put magnets in to give it an extra, snap in place, but I'm so happy with how it came out! Yippee!
 
-![Van](images/posts/IMG_1440.jpeg)
+![Van](/posts/IMG_1440.jpeg)
 My first window cover fits great!
 
-![Van](images/posts/IMG_1441.jpeg)
+![Van](/posts/IMG_1441.jpeg)
 The cover presses nicely into place, but I will still add magnets for extra stay.
 
-![Van](images/posts/IMG_1436.jpeg)
+![Van](/posts/IMG_1436.jpeg)
 I was afraid the sandwich would fall apart while sewing, so I used just a little spray adhesive.
