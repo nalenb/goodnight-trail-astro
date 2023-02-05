@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Sewing Projects for the Van'
-pubDate: 'February 7, 2021'
+pubDate: '2021-02-07'
 description: 'Excerpt'
 author: 'Christina'
-image:
-  url: '/posts/linen-like-sewing.png'
-  alt: 'image'
+image_url: '/posts/linen-like-sewing.png'
+image_alt: 'image'
 tags: ['category']
 ---
 

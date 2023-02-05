@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Everything Came to a Halt'
-pubDate: 'March 21, 2021'
+pubDate: '2021-03-21'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1748.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1748.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

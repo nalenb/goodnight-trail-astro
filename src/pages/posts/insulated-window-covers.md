@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Insulated Window Covers'
-pubDate: 'March 1, 2021'
+pubDate: '2021-03-01'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1436-1.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1436-1.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

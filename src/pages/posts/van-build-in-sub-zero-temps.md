@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Van Build in Sub-Zero Temps?!'
-pubDate: 'February 12, 2021'
+pubDate: '2021-02-12'
 description: 'Excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1099.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1099.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

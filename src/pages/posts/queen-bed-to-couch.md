@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Update: Good Night to Day Light 11/17/21'
-pubDate: 'February 16, 2021'
+pubDate: '2021-02-16'
 description: 'Excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1126-2.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1126-2.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

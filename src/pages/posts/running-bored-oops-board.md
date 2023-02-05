@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: '(Running Bored...Umm...Board)'
-pubDate: 'March 6, 2021'
+pubDate: '2021-03-06'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/Running-Bored.jpg'
-  alt: 'image'
+image_url: '/posts/Running-Bored.jpg'
+image_alt: 'image'
 tags: ['category']
 ---
 

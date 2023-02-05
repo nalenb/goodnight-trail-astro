@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Sleep Sideways?'
-pubDate: 'April 1, 2021'
+pubDate: '2021-04-01'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1302-1.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1302-1.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

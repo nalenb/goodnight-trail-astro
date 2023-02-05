@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'How Firm A Foundation?'
-pubDate: 'November 16, 2021'
+pubDate: '2021-11-16'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/Image-11-16-21-at-12.47-PM.jpeg'
-  alt: 'image'
+image_url: '/posts/Image-11-16-21-at-12.47-PM.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

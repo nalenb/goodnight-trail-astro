@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'The Bones'
-pubDate: 'March 28, 2021'
+pubDate: '2021-03-28'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1892.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1892.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

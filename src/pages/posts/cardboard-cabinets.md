@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Cardboard Cabinets'
-pubDate: 'February 25, 2021'
+pubDate: '2021-02-25'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1405.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1405.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

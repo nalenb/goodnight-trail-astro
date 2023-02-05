@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mr. Knightley Day Excursion'
-pubDate: 'February 22, 2021'
+pubDate: '2021-02-22'
 description: 'excerpt'
 author: 'Christina'
-image:
-  url: '/posts/IMG_1254.jpeg'
-  alt: 'image'
+image_url: '/posts/IMG_1254.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 

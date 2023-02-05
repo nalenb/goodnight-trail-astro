@@ -1,12 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'We Bought Our Van!'
-pubDate: 'January 27, 2021'
+pubDate: '2021-01-27'
 description: 'Bill says, "Hey Honey! How about a day trip down to Fort Collins to look at vans to see if anyone has any?" This is not out of the blue for him. I roll with it, but it...'
 author: 'Christina'
-image:
-  url: '/posts/image_1.jpeg'
-  alt: 'image'
+image_url: '/posts/image_1.jpeg'
+image_alt: 'image'
 tags: ['category']
 ---
 
